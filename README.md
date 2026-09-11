@@ -27,6 +27,9 @@
   <img
       src="https://go-skill-icons.vercel.app/api/icons?i=vscode"
     />
+   <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=idea"
+    />
 </p>
 
 ### Operating Systems 
